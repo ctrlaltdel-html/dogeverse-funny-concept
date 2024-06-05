@@ -1,4 +1,4 @@
-# Miiverse patches for Aquamarine on 3DS
+# Funni proof of concept (i finally proved those Pretendo motherfuckers wrong)
 
 To compile, you need armips, make, and flips.
 
