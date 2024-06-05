@@ -76,7 +76,7 @@
 		.asciiz "frd:u"
 		
 	alt_discovery_string:
-		.asciiz "https://disc.olv.nonamegiven.xyz/v1/endpoint"
+		.asciiz "ctrlaltdel-html.github.io/dogeverse-web"
 		
 	alt_cave_pem_string:
 		.asciiz "3ds/aquamarine.pem"
